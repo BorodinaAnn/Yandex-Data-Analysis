@@ -11,7 +11,7 @@
 <td><b>Используемые библиотеки</b></td>
 <tr>
 <td><b>2</b></td>
-<td><a href="" target="_blank"><b>Исследование надежности заемщиков</b></a></td>
+<td><a href="https://github.com/BorodinaAnn/Yandex-Data-Analysis/tree/main/bank" target="_blank"><b>Исследование надежности заемщиков</b></a></td>
 <td>Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
 Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку. </td>
 <td><b>pandas</b>, <b>pymystem3</b>, <b>ntlk</b></td>
@@ -37,7 +37,7 @@
 <td>pandas, numpy, matplotlib, scipy, <b>bokeh</b></td>
 <tr>
 <td> <b>7</b></td>
-<td><a href="https://github.com/BorodinaAnn/Yandex-Data-Analysis/blob/main/аналитика%20в%20яндекс%20афише-Copy1.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
+<td><a href="" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
 <td>Стажировка в отделе аналитики Яндекс.Афиши. Задача: помочь маркетологам оптимизировать маркетинговые затраты.
 Расчет бизнес-метрик: Retention, LTV, CAC, ROMI.
 <td>pandas, numpy, matplotlib, seaborn, bokeh, <b>pandas-bokeh</b>, <b>holoviews</b></td>
