@@ -43,7 +43,7 @@
 <td>Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов.</td>
 <td>pandas, plotly, API Yandex.Геокодер, numpy, matplotlib, seaborn</td>
 <tr>
-<td><a href="" target="_blank"><b>Анализ пользовательского поведения в мобильном приложении</b></a></td>
+<td><a href="https://github.com/BorodinaAnn/Yandex-Data-Analysis/tree/main/A_A_B_test" target="_blank"><b>Анализ пользовательского поведения в мобильном приложении</b></a></td>
 <td>На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования </td>
 <td>pandas, plotly, numpy, matplotlib, seaborn</td> 
 </table>
