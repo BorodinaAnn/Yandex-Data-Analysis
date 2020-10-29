@@ -38,7 +38,7 @@
 <td>Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами</td>
 <td>pandas, scipy, numpy, matplotlib, seaborn, plotly </td>
 <tr>
-<td><a href="" target="_blank"><b>Исследования рынка общепита в Москве для принятия решения об
+<td><a href="https://github.com/BorodinaAnn/Yandex-Data-Analysis/tree/main/Moscow_restaurant" target="_blank"><b>Исследования рынка общепита в Москве для принятия решения об
 открытии нового заведения</b></a></td>
 <td>Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов.</td>
 <td>pandas, plotly, geopy, API Yandex.Геокодер, numpy, matplotlib, seaborn</td>
