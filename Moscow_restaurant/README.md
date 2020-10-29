@@ -15,4 +15,4 @@
     
 ## Используемые навыки и инструменты  
   
-Python, Pandas, Seaborn, Plotly, визуализация данных, requests
+Python, Pandas, Seaborn, Plotly, визуализация данных, requests, API Yandex.Геокодер
