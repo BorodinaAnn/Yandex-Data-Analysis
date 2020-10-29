@@ -41,7 +41,7 @@
 <td><a href="https://github.com/BorodinaAnn/Yandex-Data-Analysis/tree/main/Moscow_restaurant" target="_blank"><b>Исследования рынка общепита в Москве для принятия решения об
 открытии нового заведения</b></a></td>
 <td>Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов.</td>
-<td>pandas, plotly, geopy, API Yandex.Геокодер, numpy, matplotlib, seaborn</td>
+<td>pandas, plotly, API Yandex.Геокодер, numpy, matplotlib, seaborn</td>
 <tr>
 <td><a href="" target="_blank"><b>Анализ пользовательского поведения в мобильном приложении</b></a></td>
 <td>На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования </td>
