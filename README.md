@@ -10,11 +10,11 @@
 <tr>
 <td><a href="https://github.com/BorodinaAnn/Yandex-Data-Analysis/tree/main/bank" target="_blank"><b>Исследование надёжности заёмщиков — анализ банковских данных</b></a></td>
 <td>На основе статистики о платёжеспособности клиентов надо было исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок</td>
-<td><b>pandas</b></td>
+<td>pandas</td>
 <tr>
 <td><a href="https://github.com/BorodinaAnn/Yandex-Data-Analysis/tree/main/realty" target="_blank"><b>Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости</b></a></td>
 <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
-<td>pandas, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b></td>
+<td>pandas, numpy, matplotlib, seaborn</td>
 <tr>
 <td><a href="https://github.com/BorodinaAnn/Yandex-Data-Analysis/tree/main/telecom" target="_blank"><b>Определение перспективного тарифа для телеком-компании</b></a></td>
 <td>На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа</td>
